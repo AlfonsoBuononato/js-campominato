@@ -12,7 +12,7 @@ con difficoltà 2 => tra 1 e 50
 *********************************/
 
 // VARIABILI DI UTILIZZO 
-var numeroMax                                                 //NUMERO MASSIMO DA SELEZIONARE
+var numeroMax;                                               //NUMERO MASSIMO DA SELEZIONARE
 var numeroBombe = 16;                                        //NUMERO DI BOMBE
 var possibilita;                                             //POSSIBILITA DI NUMERO CORRETTO
 var listaBombe = [];                                        //NUMERI BOMBA    
